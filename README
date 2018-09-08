@@ -1,0 +1,4 @@
+use make all to generate hello exectable (native)
+use make arm to cross compile arm-based executable
+use make clean to clean both 
+
